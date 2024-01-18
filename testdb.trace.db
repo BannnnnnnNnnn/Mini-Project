@@ -1,0 +1,6 @@
+2024-01-11 09:20:05.108918+07:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]AUTHOR"; expected "ALTER, ANALYZE"; SQL statement:
+AUTHOR [42001-224]
+2024-01-11 09:20:05.646911+07:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]AUTHOR"; expected "ALTER, ANALYZE"; SQL statement:
+AUTHOR [42001-224]
